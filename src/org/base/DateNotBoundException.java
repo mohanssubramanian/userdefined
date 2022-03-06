@@ -7,5 +7,6 @@ public class DateNotBoundException extends Exception {
 		
 		String s1 = "The date is not real DOB";
 		return s1;
+		System.out.println("perf");
 	}
 }
